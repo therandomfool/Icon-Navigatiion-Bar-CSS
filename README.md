@@ -2,4 +2,4 @@
 
 - svg icon manipulation
 
-![iconnavigationbarcss(assets/icon.gif)]
+![iconnavigationbarcss](assets/icon.gif)]
