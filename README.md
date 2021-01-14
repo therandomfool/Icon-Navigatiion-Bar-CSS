@@ -2,4 +2,6 @@
 
 - svg icon manipulation
 
-![iconnavigationbarcss](assets/icon.gif)]
+- 3 nav bar Themes accessed from bottom icon
+
+![iconnavigationbarcss](assets/icon.gif)
